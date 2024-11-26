@@ -1,0 +1,31 @@
+#page{
+    margin: 10px;
+    border: 1px solid black;
+    
+}
+
+h2{
+    color: blueviolet;
+}
+h3{
+    color:peru;
+}
+h4{
+    color: crimson;
+}
+.container{
+    background-color: lightblue;
+    margin-top: 0px;
+    text-align: center;
+}
+footer{
+text-align: left;
+}
+.cv{
+text-align: right;
+}
+.contact{
+    background-color:lightblue ;
+    bottom: 0px;
+
+}
